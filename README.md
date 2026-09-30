@@ -120,3 +120,14 @@ Run tests:
 
 ```bash
 npm test
+
+## Submission Links
+
+### GitHub Repository
+https://github.com/rishabhverma3266-lgtm/Take-Home-Assignment-The-Untested-API
+
+### Live API
+https://take-home-assignment-the-untested-api-7s4x.onrender.com
+
+### API Endpoint
+https://take-home-assignment-the-untested-api-7s4x.onrender.com/tasks
